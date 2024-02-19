@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: beige;
+}
+
+body{
+    background: url(./img/5590457.jpg);
+    background-repeat: repeat;
+}
+ul{
+    background-color: transparent;
+    list-style-type: none;
+}
+li{
+    background-color: transparent;
+}
